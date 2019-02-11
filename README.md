@@ -1,4 +1,4 @@
-# TWO WAYS OF INSTALLING
+# TWO WAYS OF INSTALLING protoc (proto buffer compiler)
 
 
   - USING SCRIPT added to this repo 
